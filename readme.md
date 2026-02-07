@@ -1,3 +1,7 @@
+# Linear Regression
+
+A from-scratch implementation of a **Simple Linear Regression** model. This project focuses on understanding the fundamentals of Machine Learning, specifically **Gradient Descent** and **Loss Functions**, without using high-level ML libraries.
+
 1. Install virtual venv 
     - virtualenv .venv
 
